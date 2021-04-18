@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".About">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/myname"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-black"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:background="@color/purple_200"
+
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My hobbies"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-black"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:background="@color/blue"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hobbies"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-black"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+
+        />
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Skills"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-black"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:background="@color/blue"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/skills"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-black"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+
+        />
+
+
+</LinearLayout>

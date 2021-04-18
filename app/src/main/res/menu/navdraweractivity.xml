@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:title="Choose where to go">
+
+        <menu>
+
+
+            <item
+
+                android:id="@+id/nav_homepage"
+                android:title="homepage"
+                android:icon="@drawable/homepage"
+                android:iconTint="@null"
+                />
+
+            <item
+
+                android:id="@+id/nav_contactus"
+                android:title="Contact us"
+                android:icon="@drawable/contactus"
+                android:iconTint="@null"
+
+                />
+
+            <item
+
+                android:id="@+id/nav_about"
+                android:title="About"
+                android:icon="@drawable/about"
+                android:iconTint="@null"
+
+                />
+
+
+
+
+</menu>
+    </item>
+</menu>

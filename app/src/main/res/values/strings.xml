@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ArsenPortfolio</string>
+    <string name="myname">Arsen Hendricks</string>
+    <string name="bio">Can be extremely awesome if need be, 1 part Nerd, 2 part Entrepreneur, 1 part soccer player, 1 part the best friend of a couple of friends..Simply put A LOT OF PARTS!!! </string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="hobbies">
+    <ul>
+        <li><i>Playing </i> guitar</li>
+        <li>Football</li>
+        <li>Hiking</li>
+                <li>Music //indie</li>
+
+                <li>Gaming</li>
+
+                <li>Books</li>
+
+    </ul>
+</string>
+    <string name="skills">
+    <ul>
+        <li><i>Cooking </i></li>
+        <li>Football</li>
+        <li>Athletism</li>
+                <li>English</li>
+
+                <li>Sciences</li>
+
+                <li>Math</li>
+
+    </ul>
+</string>
+</resources>
